@@ -1,0 +1,2 @@
+# FreelaDev
+ FreelaDev é uma plataforma desenvolvida para conectar freelancers de desenvolvimento com empresas e indivíduos que precisam de profissionais para trabalhar em projetos de programação. O sistema permite que clientes publiquem projetos em desenvolvimento e desenvolvedores possam oferecer propostas baseadas em horas mensais de trabalho. A plataforma visa facilitar a comunicação, transparência e segurança entre ambas as partes, promovendo uma maneira eficiente de contratar e gerenciar trabalho freelance. 
